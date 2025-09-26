@@ -1,3 +1,3 @@
-Visible_Rect: 6763,6535
-actuse25: 2390,2560,4646,4885
-Bitmap_Rect: 1438,1345
+Visible_Rect: 6962,6538
+actuse25: 2494,2560,4750,5040
+Bitmap_Rect: 940,884
